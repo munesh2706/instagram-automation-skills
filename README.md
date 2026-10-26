@@ -1,6 +1,5 @@
 # instagram-automation-skills
-Complete Instagram automation pipeline with 9 integrated skills
-Complete end-to-end automation for Instagram content creation, scheduling, and growth optimization.
+Complete end-to-end automation for Instagram content creation, scheduling, and growth optimization with 9 integrated skills
 
 ## Overview
 
